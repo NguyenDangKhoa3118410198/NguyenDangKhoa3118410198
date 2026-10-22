@@ -5,8 +5,6 @@
 **Frontend Developer** based in Ho Chi Minh City, Vietnam 🇻🇳<br/>
 I turn designs into fast, accessible, maintainable web apps — mostly with **React** and **TypeScript**.
 
-<img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-64748B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Ho Chi Minh City" /> <img src="https://hits.sh/github.com/NguyenDangKhoa3118410198.svg?style=flat-square&label=Profile%20views&color=0ea5e9&labelColor=64748b" alt="Profile views" />
-
 </div>
 
 ---
